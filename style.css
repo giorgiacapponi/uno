@@ -1,0 +1,75 @@
+body{background-image: url(background.jpg);
+background-size: cover;
+background-repeat: no-repeat;}
+
+
+.container{
+  width: 55%;
+  margin: auto;
+  background-color: rgb(0,0,0,0.3);
+  padding: 90px;
+  border-radius: 2%;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+}
+
+header > img {
+  width: 200px;
+  height:auto;
+}
+header > h1 {
+  color: lime;
+  margin: 1px 1px;
+
+}
+
+nav{background-color: lime;
+  padding: 8px;
+
+
+}
+
+nav > button {font-size: 10px;
+  font-family: sans-serif;
+
+}
+
+ main h2 {
+  display: inline-block;
+  color: white;
+  margin-bottom: 1px;
+}
+
+main > section {text-align: left;
+}
+
+.pick-up{
+  color: white;
+  margin: 1px 1px;
+  padding-top: 1px;
+
+}
+
+main hr {
+  margin-left: 0px;
+  margin-top: 0px;
+  border-radius: 5px;
+
+}
+
+#orange{
+  background-color: orange;
+  height: 20px;
+  width: 35%;
+}
+#green{
+   background-color: lime;
+   height: 20px;
+   width: 60%;
+}
+#red{
+   background-color: red;
+   height: 20px;
+   width: 13%;
+}
